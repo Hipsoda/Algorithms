@@ -1,2 +1,2 @@
-# Algorithms
-This is a respository for my algorithm learning
+# 算法的起点
+2023-12-24的时候，这是我在大一上学期快结束的时候，才想起来应该学一些算法
